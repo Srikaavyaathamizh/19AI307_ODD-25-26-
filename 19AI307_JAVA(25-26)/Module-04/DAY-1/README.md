@@ -45,9 +45,11 @@ public class UppercaseStrings {
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="479" height="233" alt="image" src="https://github.com/user-attachments/assets/48b6cc7b-5be3-4fa3-8782-67dd12302209" />
+
 
 
 
 ## RESULT:
 The sequence of hidden states corresponding to the given observations was successfully computed using the Hidden Markov Model.
+
