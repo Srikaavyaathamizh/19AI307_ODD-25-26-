@@ -80,8 +80,10 @@ public class ScheduledTasksExample {
 
 
 ## OUTPUT:
+<img width="359" height="268" alt="image" src="https://github.com/user-attachments/assets/7347cb4f-77cd-40f3-8533-47a3ccb6fbbd" />
 
 
 
 ## RESULT:
 The program successfully schedules and prints each message after its specified delay using ScheduledExecutorService.
+
