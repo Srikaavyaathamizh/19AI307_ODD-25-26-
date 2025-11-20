@@ -26,8 +26,8 @@ To implement weather-prediction bots using a common interface and polymorphism i
  ```
 /*
 Program to implement a Interface using Java
-Developed by: 
-RegisterNumber:  
+Developed by: SRIKAAVYAA T
+RegisterNumber: 212223230214 
 */
 import java.util.Scanner;
 interface WeatherBot {
